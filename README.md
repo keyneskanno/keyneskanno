@@ -1,7 +1,9 @@
 ## Hi there 👋! My name is Keynes Kanno.
 
 
-- 🏛️ I´m a IT Analyst at Federal University of Uberlândia (15 years)
+- 🏛️ I´m a IT Analyst at Federal University of Uberlândia (since 2010 ~ 15 years)
+  
+- ⚡ I´m also a Drupal freelancer (since 2010)
   
 - 🔭 I’m currently working on Projects that are migrating to Drupal 11.
   
